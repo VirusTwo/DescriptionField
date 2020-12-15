@@ -1,0 +1,6 @@
+<?php
+$s_plugin_description_title = 'Template of description field';
+$s_plugin_description_description = 'Adds a description template to guide users';
+$s_plugin_description_config = 'Config';
+$s_plugin_description_template_title = 'Description Template :';
+

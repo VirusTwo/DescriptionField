@@ -1,0 +1,6 @@
+<?php
+$s_plugin_description_title = 'Template de description';
+$s_plugin_description_description = 'Ajoute un template de description pour orienter les utilisateurs.';
+$s_plugin_description_config = 'Configuration';
+$s_plugin_description_template_title = 'Template de description';
+
